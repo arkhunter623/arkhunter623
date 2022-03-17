@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phoenix Johnson</h1>
-<h3 align="center">I'm just a chill Trans-Woman wading my way through life learning coding as I go.</h3>
+<h3 align="center">I'm just a chill Trans-Woman wading my way through life coding as I go.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkhunter623&label=Profile%20views&color=0e75b6&style=flat" alt="arkhunter623" /> </p>
 
